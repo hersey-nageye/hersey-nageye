@@ -1,8 +1,12 @@
+<div align="center">
+
 # Hersey Nageye
 
 **DevOps Engineer | AWS | IaC | CI/CD | Containerisation**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hersey-nageye&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
