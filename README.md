@@ -18,7 +18,7 @@
 
 ## 🤝🏽 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/hersey-nageye)
+- [LinkedIn](https://linkedin.com/in/hersey-nageye/)
 
 ---
 
@@ -37,6 +37,6 @@
 
 ## 📊 GitHub Stats
 
-![hersey-nageye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanadisa&show_icons=true&theme=default)
-![hersey-nageye's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanadisa&theme=default)
-![hersey-nageye's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanadisa&layout=compact)
+![hersey-nageye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hersey-nageye&show_icons=true&theme=default)
+![hersey-nageye's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hersey-nageye&theme=default)
+![hersey-nageye's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hersey-nageye&layout=compact)
